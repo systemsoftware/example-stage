@@ -1,0 +1,44 @@
+{
+  "platforms": [
+    {
+      "x": 31,
+      "y": 102,
+      "width": 100,
+      "height": 20,
+      "color": "black",
+      "rotation": 0,
+      "id": "2k4klp"
+    },
+    {
+      "x": 749,
+      "y": 79,
+      "width": 100,
+      "height": 20,
+      "color": "black",
+      "rotation": 0,
+      "id": "0drfkc"
+    },
+    {
+      "x": 474,
+      "y": 629,
+      "width": 100,
+      "height": 20,
+      "color": "black",
+      "rotation": 0,
+      "id": "ixrn1"
+    },
+    {
+      "x": 447,
+      "y": 268,
+      "width": 100,
+      "height": 20,
+      "color": "black",
+      "rotation": 0,
+      "id": "vp1iu"
+    }
+  ],
+  "backgroundType": "color",
+  "backgroundColor": "#87CEEB",
+  "backgroundImage": "https://source.unsplash.com/random/1920x1080",
+  "updated": 1717376099766
+}
